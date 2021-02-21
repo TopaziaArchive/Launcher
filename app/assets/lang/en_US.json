@@ -1,0 +1,49 @@
+{
+    "html": {
+        "avatarOverlay": "Modifier"
+    },
+    "js": {
+        "login": {
+            "error": {
+                "invalidValue": "* Valeur Invalide",
+                "requiredValue": "* Requis",
+                "userMigrated": {
+                    "title": "Erreur lors de la connexion :<br>Identifiants Invalides",
+                    "desc": "Vous avez essayé de vous connecter avec un compte migré. Veuillez réesayer avec l'email à la place du nom d'utilisateur."
+                },
+                "invalidCredentials": {
+                    "title": "Erreur lors de la connexion:<br>Identifiants Invalides",
+                    "desc": "L'email ou le mot de passe est incorrect. Réésayez plus tard."
+                },
+                "rateLimit": {
+                    "title": "Erreur lors de la connexion:<br>Trop d'essais",
+                    "desc": "Mojang vient de bloquer votre compte temporairement, réésayez plus tard."
+                },
+                "noInternet": {
+                    "title": "Erreur lors de la connexion:<br>Pas de connexion internet",
+                    "desc": "Vous devez être connecté à internet pour jouer."
+                },
+                "authDown": {
+                    "title": "Erreur lors de la connexion:<br>Serveurs d'authentification hors ligne.",
+                    "desc": "Mojang en panne."
+                },
+                "notPaid": {
+                    "title": "Erreur lors de la connexion:<br>Game Not Purchased",
+                    "desc": ""
+                },
+                "unknown": {
+                    "title": "Erreur lors de la connexion:<br>Erreur inconnue"
+                }
+            },
+            "login": "SE CONNECTER",
+            "loggingIn": "CONNEXION EN COURS",
+            "success": "CONNECTÉ",
+            "tryAgain": "Réesayer"
+        },
+        "landing": {
+            "launch": {
+                "pleaseWait": "Veuillez patienter.."
+            }
+        }
+    }
+}
